@@ -19,7 +19,9 @@
 16. [Gnss-denied Unmanned Aerial Vehicle Navigation: Analyzing Computational Complexity, Sensor Fusion, and Localization Methodologies](https://link.springer.com/article/10.1186/s43020-025-00162-z?utm_source=chatgpt.com)
 17. [Adaptive Trajectory Tracking Control using Reinforcement Learning for Quadrotor](https://journals.sagepub.com/doi/10.5772/62128?utm_source=chatgpt.com)
 18. [Hovering Control of a Quadrotor Using Monocular Images and Deep Reinforcement Learning](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2625755?utm_source=chatgpt.com)
-19. [Autonomous quadrotor collision avoidance and destination seeking in a GPS-denied environment](https://link.springer.com/article/10.1007/s10514-020-09949-2)
+19. [Autonomous Quadrotor Collision Avoidance and Destination Seeking in a GPS-denied Environment](https://link.springer.com/article/10.1007/s10514-020-09949-2)
+20. [Distributed Control and Navigation System for Quadrotor UAVs in GPS-denied Environments](https://arxiv.org/abs/1602.00462?utm_source=chatgpt.com)
+21. [Reinforcement Learning Based UAV Formation Control in GPS-denied Environment](https://www.sciencedirect.com/science/article/pii/S1000936123002364?utm_source=chatgpt.com)
 
 
 
